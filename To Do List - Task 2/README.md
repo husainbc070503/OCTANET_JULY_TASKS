@@ -1,5 +1,3 @@
-# Live
-https://prodigy-task2-todo.netlify.app/
 
 # Getting Started with Create React App
 
